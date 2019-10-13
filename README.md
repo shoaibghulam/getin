@@ -2,7 +2,7 @@
 Add this to your Cargo.toml:
 ```sh
  [dependencies]
-getin = "0.10"
+getin = "0.1.1"
 ```
 # Functions
 ``` sh
